@@ -1,6 +1,6 @@
 package com.jorgereina.shopifycollections;
 
-class Collections {
+public class Collections {
 
     private String title;
 

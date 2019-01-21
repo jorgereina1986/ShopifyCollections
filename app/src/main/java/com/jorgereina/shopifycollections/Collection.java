@@ -1,4 +1,14 @@
 package com.jorgereina.shopifycollections;
 
-class Collection {
+public class Collection {
+
+    private int id;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 }
